@@ -1,0 +1,28 @@
+[{
+    "id": 1,
+    "task": "Get Butter",
+    "completed": false
+},
+{
+    "id": 2,
+    "task": "Get Meatballs",
+    "completed": false
+},
+
+{
+    "id": 3,
+    "task": "Do dishes",
+    "completed": false
+},
+
+{
+    "id": 4,
+    "task": "Code",
+    "completed": false
+},
+
+{
+    "id": 5,
+    "task": "Play games on PC",
+    "completed": false
+}]
